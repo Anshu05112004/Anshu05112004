@@ -7,7 +7,8 @@
 *   🧠  I'm learning web deve.
 *   🤝  I'm open to collaborating on Python, java and linux
 *   📩 Contact me : [Telegram](http://t.me/tejanshu05)
-
+*   [Instagram](https://www.instagram.com/anshubhandari04/)
+*   [Facebook](https://www.facebook.com/anshu.bhandari.94009/)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
