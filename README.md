@@ -1,6 +1,6 @@
 # Hi, I'm Tejanshu
 
-<img src="programmer.gif">
+<img src="https://github.com/Anshu05112004/Anshu05112004/raw/main/programmer.gif">
 
 ## Beginner
 *   🌍  I'm based in India
